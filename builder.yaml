@@ -1,0 +1,3 @@
+processors:
+  - gomod: "github.com/jpkrohling/splitbatchprocessor v0.0.0"
+    path: "/home/jpkroehling/Projects/src/github.com/jpkrohling/splitbatchprocessor"
